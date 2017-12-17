@@ -9,18 +9,19 @@ Sometimes access to electronic books is limited to a particular number of simult
 
 **Purpose:** Apply Monte Carlo method to simulate:
 - **a chance to be blocked** (i.e. a probability not to get access to a book, since a maximum number of simultaneous users per book is exceeded) // (using PERT distribution function)
-- **a chance to wait** (i.e. a probability that it would be necessary to wait for a book) // (using Normal distribution function)
+- **a chance of waiting** (i.e. a probability that it would be necessary to wait for a book) // (using Normal distribution function)
 
 ### Hypothesis before running the simulation:
 The greater the number of users, the greater the chance to be blocked
 The longer the reading period, the greater the chance of waiting
 
 ### Simulation's variables of uncertainty
-1. Number of users who read a book
+1. Number of users reading a book
 2. Duration of reading a book
 
 ## Instructions on how to use the program:
-
+- To simulate a 'number of users reading a book', please input *Low*, *Likely*, and *High* values. The values should be integers greater than 0. Please see an example **Example_eBookAccess.png**
+- To simulate a 'duration of reading a book', please input *Mean* and *Standard Deviation* values. The values should be greater than 0. Please see an example **Example_WaitingTime.png**
 
 ## Sources Used:
 - https://ask.library.yale.edu/faq/175294
