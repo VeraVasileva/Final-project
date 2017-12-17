@@ -20,7 +20,7 @@ The longer the reading period, the greater the chance of waiting
 2. Duration of reading a book
 
 ## Instructions on how to use the program:
-- Run a file **MonteCarlo_E-book.ipynb**
+- Run a file **MonteCarlo_E-books.ipynb**
 - To simulate a 'number of users reading a book', input *Low*, *Likely*, and *High* values. The values should be integers greater than 0. Please see an example **Example_eBookAccess.png**
 - To simulate a 'duration of reading a book', input *Mean* and *Standard Deviation* values. The values should be greater than 0. Please see an example **Example_WaitingTime.png**
 
