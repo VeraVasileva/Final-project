@@ -13,6 +13,7 @@ Sometimes access to electronic books is limited to a particular number of simult
 
 ### Hypothesis before running the simulation:
 The greater the number of users, the greater the chance to be blocked
+
 The longer the reading period, the greater the chance of waiting
 
 ### Simulation's variables of uncertainty
