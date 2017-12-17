@@ -24,6 +24,9 @@ The longer the reading period, the greater the chance of waiting
 
 ## Sources Used:
 https://ask.library.yale.edu/faq/175294
+
 https://github.com/iSchool-590PR-2017Fall/590PR-examples/blob/master/Prob_Distributions.ipynb
+
 https://docs.python.org/3.6/tutorial/index.html
+
 Summerfield, M. (2009). Programming in Python 3: A Complete Introduction to the Python Language, (2nd ed.). *Addison-Wesley Professional*, 648.
