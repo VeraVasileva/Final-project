@@ -20,8 +20,9 @@ The longer the reading period, the greater the chance of waiting
 2. Duration of reading a book
 
 ## Instructions on how to use the program:
-- To simulate a 'number of users reading a book', please input *Low*, *Likely*, and *High* values. The values should be integers greater than 0. Please see an example **Example_eBookAccess.png**
-- To simulate a 'duration of reading a book', please input *Mean* and *Standard Deviation* values. The values should be greater than 0. Please see an example **Example_WaitingTime.png**
+- Run a file **MonteCarlo_E-book.ipynb**
+- To simulate a 'number of users reading a book', input *Low*, *Likely*, and *High* values. The values should be integers greater than 0. Please see an example **Example_eBookAccess.png**
+- To simulate a 'duration of reading a book', input *Mean* and *Standard Deviation* values. The values should be greater than 0. Please see an example **Example_WaitingTime.png**
 
 ## Sources Used:
 - https://ask.library.yale.edu/faq/175294
